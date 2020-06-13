@@ -1,0 +1,11 @@
+{
+  "name": "vue-datepicker-demo",
+  "version": "1.0.0",
+  "description": "A demo for vuejs-datepicker library.",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "vue": "2.5.2",
+    "vuejs-datepicker": "latest"
+  }
+}
